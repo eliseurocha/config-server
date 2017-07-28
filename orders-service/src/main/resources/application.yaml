@@ -1,0 +1,18 @@
+spring:
+    application:
+        name: orders-service
+        version: 1.0
+
+
+toggle:
+    service:
+        host: http://localhost
+        port: 9000/
+
+server:
+    port: 9001
+
+          
+kafka:
+    port: 9092
+          

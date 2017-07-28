@@ -1,0 +1,7 @@
+org/esr/products/services/app/rest/ProductsServiceREST.class
+org/esr/products/services/dto/Product.class
+org/esr/products/exceptions/ProductsException.class
+org/esr/products/ProductToggle.class
+org/esr/products/services/ProductsService.class
+org/esr/products/ProductConfig.class
+org/esr/ProductsServiceApplication.class

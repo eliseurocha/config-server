@@ -1,0 +1,7 @@
+/home/eliseu/poc/products-service/src/main/java/org/esr/products/ProductConfig.java
+/home/eliseu/poc/products-service/src/main/java/org/esr/products/ProductToggle.java
+/home/eliseu/poc/products-service/src/main/java/org/esr/products/services/ProductsService.java
+/home/eliseu/poc/products-service/src/main/java/org/esr/products/services/app/rest/ProductsServiceREST.java
+/home/eliseu/poc/products-service/src/main/java/org/esr/products/exceptions/ProductsException.java
+/home/eliseu/poc/products-service/src/main/java/org/esr/ProductsServiceApplication.java
+/home/eliseu/poc/products-service/src/main/java/org/esr/products/services/dto/Product.java

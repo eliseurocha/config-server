@@ -1,0 +1,19 @@
+spring:
+    application:
+        name: products-service
+        version: 1.0
+
+
+toggle:
+    service:
+        host: http://localhost
+        port: 9000/
+
+server:
+
+    port: 9002
+
+          
+kafka:
+    port: 9092
+          

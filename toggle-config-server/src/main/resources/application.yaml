@@ -1,0 +1,10 @@
+spring:
+    application:
+        name: toggle-config-server
+        version: 1.0
+
+server:
+    port: 9000
+    
+kafka:
+    port: 9092
