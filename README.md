@@ -1,3 +1,4 @@
+
 Config Toggle Server 
 
 The main goal of this project is to demonstrate how can we implement
@@ -59,6 +60,7 @@ If the kafka ports are needed to be reconfigures, we can pass as argument --kafk
 
 
 4. Using Websockets
+
 
 
 
